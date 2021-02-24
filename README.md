@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-![Alt Text](https://media.giphy.com/media/11XxC0wD3jVSCI/giphy.gif)
+giphy.gif
 -->
