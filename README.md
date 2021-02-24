@@ -5,5 +5,5 @@
 
 Here are some ideas to get you started:
 
-giphy.gif
+! [] (giphy.gif)
 -->
